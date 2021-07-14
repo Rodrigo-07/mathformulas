@@ -4,7 +4,7 @@ html {
 
 .background {
     background-color: #119fdb;
-    padding: 0px 40px 10px 70px; /* top right booton left */
+    padding: 0px 40px 0px 70px; /* top right booton left */
     text-align: center;
     border-style: solid;
 }
@@ -81,4 +81,10 @@ html {
     position: relative;
     top: 10px;
     right: 200px;
+}
+
+#pythagorean_theorem {
+    position: relative;
+    top: -23px;
+    right: -50px;
 }
