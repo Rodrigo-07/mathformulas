@@ -1,0 +1,84 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.background {
+    background-color: #119fdb;
+    padding: 0px 40px 10px 70px; /* top right booton left */
+    text-align: center;
+    border-style: solid;
+}
+
+#title1 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    text-align: center;
+    height: 50px;
+}
+
+#principal {
+    position: relative;
+    top: -55px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 100px auto;
+    margin-bottom: 10px;
+    font-size: 30px;
+    background-color: rgba(202, 199, 199, 0.795);
+}
+
+
+#input0 {
+    position: relative;
+    width: 100px; 
+    left: 200px;
+    top: 30px;
+}
+
+#input1 {
+    position: relative;
+    width: 100px; 
+    left: 200px;
+    top: 30px;
+}
+
+#input2 {
+    position: relative;
+    width: 100px; 
+    left: 200px;
+    top: 30px;
+}
+
+#submit0 {
+    position: relative;
+    top: -100px;
+}
+
+#output_result1 {
+    position: relative;
+    top: -150px;
+    text-align: center;
+}
+
+#output_result2 {
+    position: relative;
+    top: -150px;
+    text-align: center;
+}
+
+#complex_number{
+    position: relative;
+    top: -150px;
+    text-align: center;
+}
+
+#text_equation {
+    position: relative;
+    text-align: center;
+}
+
+#quadratic_formula {
+    position: relative;
+    top: 10px;
+    right: 200px;
+}
