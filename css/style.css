@@ -4,7 +4,7 @@ html {
 
 .background {
     background-color: #119fdb;
-    padding: 0px 40px 0px 70px; /* top right booton left */
+    padding: 0px 100px 0px 100px; /* top right booton left */
     text-align: center;
     border-style: solid;
 }
