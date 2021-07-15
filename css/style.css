@@ -16,7 +16,7 @@ html {
     height: 50px;
 }
 
-#principal {
+#principal0 {
     position: relative;
     top: -55px;
     border-radius: 10px;
@@ -26,7 +26,6 @@ html {
     font-size: 30px;
     background-color: rgba(202, 199, 199, 0.795);
 }
-
 
 #input0 {
     position: relative;

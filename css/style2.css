@@ -1,0 +1,75 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#principal1 {
+    position: relative;
+    top: -55px;
+    border-radius: 10px;
+    max-width: 500px;
+    max-height: 615px;
+    margin: 100px auto;
+    margin-bottom: 0px;
+    font-size: 30px;
+    background-color: rgba(202, 199, 199, 0.795);
+}
+
+#pythagorean_theorem {
+    position: relative;
+    top: -23px;
+    right: -100px;
+}
+
+#triangle-bottomleft {
+    position: relative;
+    top: 50px;
+    left: 175px;
+    width: 0;
+    height: 0;
+    border-bottom: 175px solid red;
+    border-right: 175px solid transparent;
+}
+
+#a {
+    position: relative;
+    bottom: 570px;
+    left: 145px;
+}
+
+#b {
+    position: relative;
+    bottom: 530px;
+    left: 245px;
+}
+
+#c {
+    position: relative;
+    bottom: 693px;
+    left: 305px;
+}
+
+#input3 {
+    position: relative;
+    width: 100px; 
+    left: 200px;
+    top: 130px;
+}
+
+#input4 {
+    position: relative;
+    width: 100px; 
+    left: 200px;
+    top: 130px;
+}
+
+#input5 {
+    position: relative;
+    width: 100px; 
+    left: 200px;
+    top: 130px;
+}
+
+#submit2 {
+    position: relative;
+    top: -20px;
+}
