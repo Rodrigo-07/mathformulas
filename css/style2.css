@@ -12,13 +12,9 @@ html {
     margin-bottom: 10px;
     font-size: 30px;
     background-color: rgba(202, 199, 199, 0.795);
+    box-shadow: 2px 2px 8px 2px #aaa;
 }
 
-#pythagorean_theorem {
-    position: relative;
-    top: -23px;
-    right: -100px;
-}
 
 #triangle-bottomleft {
     position: relative;

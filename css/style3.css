@@ -1,0 +1,30 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#principal2 {
+    position: relative;
+    top: -55px;
+    border-radius: 10px;
+    max-width: 500px;
+    max-height: 615px;
+    margin: 100px auto;
+    margin-bottom: 10px;
+    font-size: 30px;
+    background-color: rgba(202, 199, 199, 0.795);
+    box-shadow: 2px 2px 8px 2px #aaa;
+}
+
+#logarithm1 {
+    position: relative;
+    top: -57px;
+    left: 305px;
+}
+
+#input6 {
+    position: relative;
+}
+
+#input7 {
+    position: relative;
+}
