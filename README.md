@@ -11,12 +11,30 @@ To create this website I used only HTML, CSS and JavaScript. No library or frame
 
 ## Website pages
 ### Quadratic Formula
+On this page, you can calculate the x values of a quadratic equation.
+ 
+![Quadratic formula _1](https://user-images.githubusercontent.com/68949983/139607788-428da3d5-8edf-40dc-8bb3-0410f0ae9430.png)
 
-<img src=("https://user-images.githubusercontent.com/68949983/139607321-cb874118-3f7d-41e1-9eea-504ff036de68.png" width="200" height="200">
+Just add the values of the a, b, c following the general formula. After that, is just to click on "calculate" and answer will appear bellow
+![Quadratic formula _2](https://user-images.githubusercontent.com/68949983/139607957-780a3a49-8a24-4326-84fc-30329b0dc29e.png)
 
-{photo}
+### Pythagorean Theorem
+On this page, you can calculate the hypotenuse and cathetuses of a right triangle.
+![Pythagorean_Theorem1](https://user-images.githubusercontent.com/68949983/139608192-a24f6fa2-e1cc-47de-be40-37c19ef5db56.png)
+- a = Opposite cathetus
+- b = Adjacent cathetus
+- c = Hypotenuse
 
+To use just add the values that you have and leave the value you want to find in black.
+![Pythagorean_Theorem2](https://user-images.githubusercontent.com/68949983/139608439-1c7cc1c3-1c79-4012-8cae-b67c5899e605.png)
 
+### Percentage
+On this page, you can calculate percentage in two different situations.
+![Percentage1](https://user-images.githubusercontent.com/68949983/139608576-a73b6a8b-9026-4bff-8a3d-c8ef87fdc5b1.png)
+To use, just add the values and click on "calculate"
+![Percentage2](https://user-images.githubusercontent.com/68949983/139608837-f117f9f6-9faf-4083-a108-becb642309e0.png)
+
+&nbsp;
 
 ## Website code
 ### HTML
@@ -34,26 +52,26 @@ The content of each file is the html code of the respective page.
 
 ### CSS
 In the CSS folder, there is 3 files:
-- [style.css]()
-    This is the CSS code for the index page
+- [style.css](https://github.com/Rodrigo-07/mathformulas/blob/255197ba0fe8464b7ec2b1c03d2acf2ffe2d8296/css/style.css)
+    This is the CSS code for the index page.
 
-- [style2.css]()
-    This is the CSS code for the Pythagorean Theorem page
+- [style2.css](https://github.com/Rodrigo-07/mathformulas/blob/255197ba0fe8464b7ec2b1c03d2acf2ffe2d8296/css/style2.css)
+    This is the CSS code for the Pythagorean Theorem page.
 
-- [style4.css]()
-    This is the CSS code for the percentage page
+- [style4.css](https://github.com/Rodrigo-07/mathformulas/blob/255197ba0fe8464b7ec2b1c03d2acf2ffe2d8296/css/style4.css)
+    This is the CSS code for the percentage page.
 
-Most of the times I used CSS id Selector
+Most of the times I used CSS id Selector.
 
 ### JavaScript
 In the JS folder, there is 3 files:
-- [script1.js]()
+- [script1.js](https://github.com/Rodrigo-07/mathformulas/blob/255197ba0fe8464b7ec2b1c03d2acf2ffe2d8296/js/script1.js)
     This is the JS code for the index page.
 
-- [script2.js]()
+- [script2.js](https://github.com/Rodrigo-07/mathformulas/blob/255197ba0fe8464b7ec2b1c03d2acf2ffe2d8296/js/script2https://github.com/Rodrigo-07/mathformulas/blob/255197ba0fe8464b7ec2b1c03d2acf2ffe2d8296/js/script1.js.js)
     This is the JS code for the Pythagorean Theorem page.
 
-- [script4.js]()
+- [script4.js](https://github.com/Rodrigo-07/mathformulas/blob/255197ba0fe8464b7ec2b1c03d2acf2ffe2d8296/js/script4.js)
     This is the JS code for the percentage page. Here I used 2 fuctions, one for each type of percertage.
 
 To get values of the variables from the HTML pages, I used `document.getElementById`
