@@ -88,6 +88,4 @@ In the JS folder, there is 3 files:
 
 To get values of the variables from the HTML pages, I used `document.getElementById`
 
-
-This file should include your Project Title, the URL of your video (created in step 1 above) and a description of your project.
-Your README.md file should be minimally multiple paragraphs in length, and should explain what your project is, what each of the files you wrote for the project contains and does, and if you debated certain design choices, explaining why you made them. Ensure you allocate sufficient time and energy to writing a README.md that you are proud of and that documents your project thoroughly. Be proud of it!
+This was my CS50 final project!
