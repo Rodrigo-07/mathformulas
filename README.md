@@ -15,23 +15,30 @@ On this page, you can calculate the x values of a quadratic equation.
  
 ![Quadratic formula _1](https://user-images.githubusercontent.com/68949983/139607788-428da3d5-8edf-40dc-8bb3-0410f0ae9430.png)
 
-Just add the values of the a, b, c following the general formula. After that, is just to click on "calculate" and answer will appear bellow
+Just add the values of the a, b, c following the general formula. After that, is just to click on "calculate" and answer will appear bellow,
+
 ![Quadratic formula _2](https://user-images.githubusercontent.com/68949983/139607957-780a3a49-8a24-4326-84fc-30329b0dc29e.png)
 
 ### Pythagorean Theorem
 On this page, you can calculate the hypotenuse and cathetuses of a right triangle.
+
 ![Pythagorean_Theorem1](https://user-images.githubusercontent.com/68949983/139608192-a24f6fa2-e1cc-47de-be40-37c19ef5db56.png)
+
 - a = Opposite cathetus
 - b = Adjacent cathetus
 - c = Hypotenuse
 
 To use just add the values that you have and leave the value you want to find in black.
+
 ![Pythagorean_Theorem2](https://user-images.githubusercontent.com/68949983/139608439-1c7cc1c3-1c79-4012-8cae-b67c5899e605.png)
 
 ### Percentage
 On this page, you can calculate percentage in two different situations.
+
 ![Percentage1](https://user-images.githubusercontent.com/68949983/139608576-a73b6a8b-9026-4bff-8a3d-c8ef87fdc5b1.png)
+
 To use, just add the values and click on "calculate"
+
 ![Percentage2](https://user-images.githubusercontent.com/68949983/139608837-f117f9f6-9faf-4083-a108-becb642309e0.png)
 
 &nbsp;
