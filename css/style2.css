@@ -7,7 +7,7 @@ html {
     top: -55px;
     border-radius: 10px;
     max-width: 500px;
-    max-height: 615px;
+    max-height: 700px;
     margin: 100px auto;
     margin-bottom: 10px;
     font-size: 30px;
@@ -15,6 +15,12 @@ html {
     box-shadow: 2px 2px 8px 2px #aaa;
 }
 
+
+#main_text {
+    position: relative;
+    text-align: center;
+    top: 10px;
+}
 
 #triangle-bottomleft {
     position: relative;
