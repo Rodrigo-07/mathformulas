@@ -8,7 +8,7 @@
 &nbsp;
 
 ## Description: 
-This is my final project for CS50 Course. I used only HTML, CSS and JavaScript to create this website. No library or framework was used. At moment(10/31/2021) you can calculate the result of a quadratic equation, the the hypotenuse and cathetus of a right triangle, and 2 percentage calculation situations.
+This is my final project for CS50 Course. I used only HTML, CSS and JavaScript to create this website. No library or framework was used. At moment(10/31/2021) you can calculate the result of a quadratic equation, the the hypotenuse and cathetuses of a right triangle, and 2 percentage calculation situations.
 
 &nbsp;
 
