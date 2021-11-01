@@ -3,7 +3,7 @@
 
 ![MathFormulas](https://user-images.githubusercontent.com/68949983/139709532-28dd9f85-5578-4151-be5d-a41558586feb.png)
 
-#### It is a website to calculate the result of some mathematical formulas quickly
+### It is a website to calculate the result of some mathematical formulas quickly
 
 &nbsp;
 
