@@ -4,10 +4,13 @@
 {photo}
 
 #### It is a website to calculate the result of some mathematical formulas quickly
+
 &nbsp;
 
 ## Description: 
 To create this website I used only HTML, CSS and JavaScript. No library or framework was used. At moment(10/31/2021) you can calculate the result of a quadratic equation, the the hypotenuse and cathetus of a right triangle, and 2 percentage calculation situations.
+
+&nbsp;
 
 ## Website pages
 ### Quadratic Formula
