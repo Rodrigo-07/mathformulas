@@ -8,7 +8,7 @@
 &nbsp;
 
 ## Description: 
-To create this website I used only HTML, CSS and JavaScript. No library or framework was used. At moment(10/31/2021) you can calculate the result of a quadratic equation, the the hypotenuse and cathetus of a right triangle, and 2 percentage calculation situations.
+This is my final project for CS50 Course. I used only HTML, CSS and JavaScript to create this website. No library or framework was used. At moment(10/31/2021) you can calculate the result of a quadratic equation, the the hypotenuse and cathetus of a right triangle, and 2 percentage calculation situations.
 
 &nbsp;
 
@@ -21,6 +21,8 @@ On this page, you can calculate the x values of a quadratic equation.
 Just add the values of the a, b, c following the general formula. After that, is just to click on "calculate" and answer will appear bellow,
 
 ![Quadratic formula _2](https://user-images.githubusercontent.com/68949983/139607957-780a3a49-8a24-4326-84fc-30329b0dc29e.png)
+
+It does not calculate complex numbers, so if your quadratic equation results are complex numbers, the answer will be "x1 and x2 are complex numbers!"
 
 ### Pythagorean Theorem
 On this page, you can calculate the hypotenuse and cathetuses of a right triangle.
